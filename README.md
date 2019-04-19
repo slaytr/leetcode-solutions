@@ -40,4 +40,4 @@ Answers to each problem set in corresponding languages repository
 
 #### Image Log
 
-![LeetCode](Images/LeetCode.png "Excel Record")
+![LeetCode](/Images/LeetCode.PNG "Excel Record")
