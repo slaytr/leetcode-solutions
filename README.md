@@ -37,6 +37,7 @@ Answers to each problem set in corresponding languages repository
 * 190 Reverse Bits
 * 414 Third Maximum Number
 * 100 Same Tree
+* 701 Insert into a Binary Search Tree
 
 #### Image Log
 
