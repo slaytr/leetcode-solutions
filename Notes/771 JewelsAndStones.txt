@@ -1,0 +1,10 @@
+#notes
+python string.count() method
+returns the number of occurrences of a substring in a given string
+
+sum(iterable, start)
+list, tuple, dict, etc
+start = value added to the sum of the iterables
+
+for floats, use math.fsum(iterable)
+

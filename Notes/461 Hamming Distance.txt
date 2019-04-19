@@ -1,0 +1,2 @@
+zfill(width) to pad left of string with 0's to meet desired width
+bin(num) to convert number to binary string, starts with 0b so splice using [2:] to omit 0b
