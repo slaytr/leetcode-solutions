@@ -3,11 +3,23 @@ LeetCode Repository
 
 Answers to each problem set in corresponding languages repository
 
+#### Commit as of 20/04/2019
+
+#### Problems Completed in Order
+
+* 258 Add Digits
+* 292 Nim Game
+* 485 Max Consecutive Ones
+* 283 Move Zeroes
+* 349 Intersection of Arrays
+* 476 Number Complement
+* 654 Maximum Binary Tree
+
 #### Commit as of 19/04/2019
 
 #### Problems Completed in Order
 
-* 771  Jewels and Stones
+* 771 Jewels and Stones
 * 1021 Remove Outermost Parantheses
 * 709 To Lower Case
 * 804 Unique Morse Code Words
@@ -40,5 +52,9 @@ Answers to each problem set in corresponding languages repository
 * 701 Insert into a Binary Search Tree
 
 #### Image Log
+
+![LeetCode](/Images/LeetCode2004.png "Excel Record")
+
+##### 19/04/2019
 
 ![LeetCode](/Images/LeetCode1904.png "Excel Record")
