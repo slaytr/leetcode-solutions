@@ -7,6 +7,16 @@ Answers to each problem set in corresponding languages repository
 
 #### Problems Completed in Order
 
+* 811 Subdomain Visit Count
+* 884 Uncommon Words from Two Sentences
+* 1030 (Contest) Matrix Cells in Distance Order
+* 979 Distribute Coins in a Binary Tree
+* 951 Flip Equivalent Binary Trees
+
+#### Commit as of 20/04/2019
+
+#### Problems Completed in Order
+
 * 258 Add Digits
 * 292 Nim Game
 * 485 Max Consecutive Ones
@@ -52,6 +62,12 @@ Answers to each problem set in corresponding languages repository
 * 701 Insert into a Binary Search Tree
 
 #### Image Log
+
+##### 21/04/2019
+
+![LeetCode](/Images/LeetCode2104.png "Excel Record")
+
+##### 20/04/2019
 
 ![LeetCode](/Images/LeetCode2004.png "Excel Record")
 
