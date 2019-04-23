@@ -4,6 +4,19 @@ LeetCode Repository
 ### Answers to each LeetCode problem set in the format, problem id followed by it's name
 ---
 
+#### Commit as of 23/04/2019
+
+#### Problems Completed in Order
+
+* 104 Max Depth Binary Tree
+* 136 Single Number
+* 412 Fizz Buzz
+* 942 DI String Match
+* 206 Reverse Linked List
+* 237 Delete Node in a Linked List
+* 921 Minimum Add to Make Parentheses Valid
+* 237 Delete Node in a Linked List
+---
 
 #### Commit as of 22/04/2019
 
@@ -84,6 +97,10 @@ LeetCode Repository
 
 
 #### Image Log
+
+##### 23/04/2019
+
+![LeetCode](/Images/LeetCode2304.png "Excel Record")
 
 ##### 22/04/2019
 
