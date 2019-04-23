@@ -100,6 +100,8 @@ LeetCode Repository
 
 ##### 23/04/2019
 
+![LeetCode](/Images/Week1.png "Excel Record")
+
 ![LeetCode](/Images/LeetCode2304.png "Excel Record")
 
 ##### 22/04/2019
