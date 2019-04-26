@@ -4,13 +4,31 @@ LeetCode Repository
 ### Answers to each LeetCode problem set in the format, problem id followed by it's name
 ---
 
+#### Commit as of 26/04/2019
+
+#### Problems Completed
+
+* 897 Increasing Order Search Tree
+* 88 Merge Sorted Array
+* 500 Keyboard Row
+* 806 Number of Lines to Write String
+* 872 Leaf-Similar Trees
+* 682 Baseball Game
+* 637 Average of Levels in Binary Tree
+* 937 Reorder Log Files
+* 226 Invert Binary Tree
+* 693 Binary Number with Alternating Bits
+* 888 Fair Candy Swap
+* 896 Monotonic Array
+* 606 Construct String from Binary Tree
+* 520 Detect Capital
+* 993 Cousins in Binary Tree
+* 448 Find All Numbers MIA in an Array
+* 791 Custom Sort String
+
 #### Commit as of 23/04/2019
 
-Break Day
-
-#### Commit as of 23/04/2019
-
-#### Problems Completed in Order
+#### Problems Completed
 
 * 104 Max Depth Binary Tree
 * 136 Single Number
@@ -24,7 +42,7 @@ Break Day
 
 #### Commit as of 22/04/2019
 
-#### Problems Completed in Order
+#### Problems Completed
 
 * 620 Not Boring Movies (SQL)
 * 1025 Divisor Game
@@ -38,8 +56,7 @@ Break Day
 
 #### Commit as of 21/04/2019
 
-#### Problems Completed in Order
-
+#### Problems Completed
 * 811 Subdomain Visit Count
 * 884 Uncommon Words from Two Sentences
 * 1030 (Contest) Matrix Cells in Distance Order
@@ -50,7 +67,7 @@ Break Day
 
 #### Commit as of 20/04/2019
 
-#### Problems Completed in Order
+#### Problems Completed
 
 * 258 Add Digits
 * 292 Nim Game
@@ -64,7 +81,7 @@ Break Day
 
 #### Commit as of 19/04/2019
 
-#### Problems Completed in Order
+#### Problems Completed
 
 * 771 Jewels and Stones
 * 1021 Remove Outermost Parantheses
@@ -99,27 +116,14 @@ Break Day
 * 701 Insert into a Binary Search Tree
 ---
 
+## Image Log
 
-#### Image Log
-
-##### 23/04/2019
+#### Current Log Graph Format - 26/04
 
 ![LeetCode](/Images/Week1.png "Excel Record")
 
-![LeetCode](/Images/LeetCode2304.png "Excel Record")
+#### Current Log Table Format - 26/04
 
-##### 22/04/2019
+![LeetCode](/Images/LeetCode2604.png "Excel Record")
 
-![LeetCode](/Images/LeetCode2204.png "Excel Record")
-
-##### 21/04/2019
-
-![LeetCode](/Images/LeetCode2104.png "Excel Record")
-
-##### 20/04/2019
-
-![LeetCode](/Images/LeetCode2004.png "Excel Record")
-
-##### 19/04/2019
-
-![LeetCode](/Images/LeetCode1904.png "Excel Record")
+---
