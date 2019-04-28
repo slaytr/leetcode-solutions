@@ -4,6 +4,23 @@ LeetCode Repository
 ### Answers to each LeetCode problem set in the format, problem id followed by it's name
 ---
 
+#### Commit as of 28/04/2019
+
+#### Problems Completed
+
+* 169 Majority Element
+* 242 Valid Anagram
+* 383 Ransom Note
+* 733 Flood Fill
+* 171 Excel Sheet Column Number
+* 371 Sum of Two Integers
+* 453 Minimum Moves to Equal Array Elements
+* 1026 Maximum Difference Between Node and Ancestor
+* 677 Map Sum Pairs
+* 1022 Sum of Root to Leaf Binary Numbers
+* 1033 Moving Stones Until Consecutive
+* 1034 Colouring A Border
+
 #### Commit as of 26/04/2019
 
 #### Problems Completed
