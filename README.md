@@ -1,8 +1,21 @@
 LeetCode Repository
 ========
 
+###### Shift + Alt (Multiline Edit)
+
 ### Answers to each LeetCode problem set in the format, problem id followed by it's name
 ---
+#### Commit as of 29/04/2019
+
+#### Problems Completed
+
+* 1010
+* 941
+* 938
+* 844
+* 868
+* 796
+* 817
 
 #### Commit as of 28/04/2019
 
