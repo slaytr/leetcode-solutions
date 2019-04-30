@@ -145,12 +145,12 @@ LeetCode Repository
 
 ## Image Log
 
-#### Current Log Graph Format - 26/04
+#### Current Log Graph Format - 30/04
 
-![LeetCode](/Images/Week1.png "Excel Record")
+![LeetCode](/Images/Week2.png "Excel Record")
 
-#### Current Log Table Format - 26/04
+#### Current Log Table Format - 30/04
 
-![LeetCode](/Images/LeetCode2604.png "Excel Record")
+![LeetCode](/Images/LeetCode3004.png "Excel Record")
 
 ---
