@@ -5,17 +5,12 @@ LeetCode Repository
 
 ### Answers to each LeetCode problem set in the format, problem id followed by it's name
 ---
-#### Commit as of 29/04/2019
+#### Commit as of 30/04/2019
 
 #### Problems Completed
 
-* 1010
-* 941
-* 938
-* 844
-* 868
-* 796
-* 817
+* Too many to continue recording
+---
 
 #### Commit as of 28/04/2019
 
@@ -33,6 +28,7 @@ LeetCode Repository
 * 1022 Sum of Root to Leaf Binary Numbers
 * 1033 Moving Stones Until Consecutive
 * 1034 Colouring A Border
+---
 
 #### Commit as of 26/04/2019
 
@@ -55,6 +51,7 @@ LeetCode Repository
 * 993 Cousins in Binary Tree
 * 448 Find All Numbers MIA in an Array
 * 791 Custom Sort String
+---
 
 #### Commit as of 23/04/2019
 
